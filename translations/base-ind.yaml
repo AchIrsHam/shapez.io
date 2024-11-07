@@ -57,19 +57,19 @@ global:
 demoBanners:
     title: Versi Demo
     intro: |-
-        Get the full game <strong>now</strong> to unlock:<ul>
-            <li>All 26 levels + infinite Freeplay</li>
-            <li>22 new buildings</li>
-            <li>Mod support</li>
-            <li>Achievements</li>
-            <li>Dark Mode</li>
-            <li>... and a lot more!</li>
+        Dapatkan versi full <strong>sekarang</strong> untuk membuka:<ul>
+            <li>Semua 26 level + Permainan tak terhingga</li>
+            <li>22 bangunan baru</li>
+            <li>Kompatibilitas mod</li>
+            <li>Penghargaan</li>
+            <li>Mode gelap</li>
+            <li>... dan masih banyak yang lainnya!</li>
         </ul>
-    playtimeDisclaimer: The full version contains more than <strong>20 hours of content</strong>.
-    playerCount: <playerCount> players like you are currently playing shapez on Steam
-    untilEndOfDemo: Until end of demo
-    playtimeDisclaimerDownload: You can continue your savegame in the full version!
-        Click <strong>here</strong> to download your savegame.
+    playtimeDisclaimer: Versi lengkap game memiliki <strong>20 jam konten</strong>.
+    playerCount: <playerCount> pemain seperti kamu sedang bermain shapez di Steam
+    untilEndOfDemo: Hingga selesai dari demo
+    playtimeDisclaimerDownload: Kamu bisa melanjutkan simpanan kamu di versi full!
+        Klik <strong>disini</strong> untuk download simpanan kamu.
     titleV2: "Play the full version now for:"
 mainMenu:
     play: Mulai Permainan
@@ -88,20 +88,20 @@ mainMenu:
     savegameLevelUnknown: Level tidak diketahui
     savegameUnnamed: Tidak Dinamai
     puzzleMode: Puzzle Mode
-    back: Back
+    back: Kembali
     puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
         DLC now on Steam for even more fun!
-    puzzleDlcWishlist: Wishlist now!
+    puzzleDlcWishlist: Wishlist sekarang!
     puzzleDlcViewNow: View Dlc
     mods:
-        title: Active Mods
-        warningPuzzleDLC: Playing the Puzzle DLC is not possible with mods. Please
-            disable all mods to play the DLC.
+        title: Mod aktif
+        warningPuzzleDLC: Bermain dengan puzzle DLC tidak berfungsi dengan mod. silahkan
+        untuk mematikan semua mod yang aktif untuk bermain dengan DLC.
     playingFullVersion: You are now playing the full version!
     logout: Logout
-    noActiveSavegames: No active savegames found - Click play to start a new game!
-    playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+    noActiveSavegames: Tidak ada savegame aktif - Klik disini untuk membuat yang baru!
+    playFullVersionV2: Sudah membeli game di steam? Mainkan game versi full di browser!
+    playFullVersionStandalone: Sekarang kamu bisa memainkan versi full di browser!
 dialogs:
     buttons:
         ok: OK
